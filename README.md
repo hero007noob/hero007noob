@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hero007noob&count_private=true&show_icons=true&line_height=21&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hero007noob&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **hero007noob/hero007noob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
