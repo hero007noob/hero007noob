@@ -10,8 +10,8 @@
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=hero007noob&count_private=true&show_icons=true&theme=onedark" alt="himanshu-sharma" />
-    <img width="445" src="http://github-readme-streak-stats.herokuapp.com?user=hero007noob&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="himanshu-sharma" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=hero007noob&count_private=true&show_icons=true&theme=onedark" alt="himanshu-sharma" />
+    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=hero007noob&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="himanshu-sharma" />
     
 </div>
 
