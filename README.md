@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Himanshu</h1>
-<h3>
+<h1 align="center" >Hi 👋, I'm Himanshu</h1>
+<h4 align="center">
 I am Himanshu, a dynamic and self-motivated Full Stack Web Developer with expertise in React, Redux, Node.js, Express, and MongoDB. I take pride in possessing excellent problem-solving skills and being an effective communicator. I have experience developing robust applications, implementing responsive designs, and optimizing user interfaces. I am passionate about creating innovative solutions and always seek opportunities to expand my skill set.
-</h3>
+</h4>
 <!-- - 🔭 I am a Full Stack Developer from Masai school and looking for a career as a Full Stack Developer.
 - 👯 I’m looking to collaborate on any awesome projects -->
 
